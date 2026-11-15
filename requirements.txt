@@ -1,1 +1,15 @@
-
+fastapi==0.115.*
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+sqlalchemy
+alembic
+psycopg2-binary
+imaplib-tools
+beautifulsoup4
+scikit-learn
+transformers
+torch
+spacy
+pymorphy3
