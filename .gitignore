@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MYSTUFF
+models/
+*.pt
+*.h5
+.env
